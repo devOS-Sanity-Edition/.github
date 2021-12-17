@@ -9,5 +9,5 @@ Enjoy your stay here while we just keep making weird repos.
 
 ## Teams:
 
-- [Incompetence, the devs behind Incompetent Engine/Incompetech](https://github.com/orgs/devOS-Sanity-Edition/teams/incompetence)
+- [Incompetence, the devs behind Tanuki Engine](https://github.com/orgs/devOS-Sanity-Edition/teams/incompetence)
 - [Team G4, the devs behind G4/G4X/G4Y](https://github.com/orgs/devOS-Sanity-Edition/teams/team-g4)
