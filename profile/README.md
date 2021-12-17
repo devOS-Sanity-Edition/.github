@@ -10,5 +10,5 @@ Enjoy your stay here while we just keep making weird repos.
 ## Teams:
 
 - [Incompetence, the devs behind Tanuki Engine](https://github.com/orgs/devOS-Sanity-Edition/teams/incompetence)
-- [Nautical, a Minecraft modding group under devOS](https://github.com/orgs/devOS-Sanity-Edition/teams/nautical)
+- [Nautical, a Minecraft modding group under devOS](https://github.com/orgs/devOS-Sanity-Edition/teams/team-nautical)
 - [Team G4, the devs behind G4/G4X/G4Y](https://github.com/orgs/devOS-Sanity-Edition/teams/team-g4)
