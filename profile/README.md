@@ -17,6 +17,8 @@ Made by Team Nautical moment. Just click the badge below.
       <img title="modrinth" height="50" src="https://cdn.discordapp.com/attachments/942531943013179422/981898980491423784/Light.png">
     </picture>
   </a>
+  
+  For a more indepth explanation on what our mods are [please go here](https://modname.mcmc.dev/XjC7LqnheUppDHX4)
 
 ## Teams:
 
