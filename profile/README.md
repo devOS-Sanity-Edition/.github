@@ -22,6 +22,6 @@ Made by Team Nautical moment. Just click the badge below.
 
 ## Teams:
 
-- [Incompetence, the devs behind Tanuki Engine](https://github.com/orgs/devOS-Sanity-Edition/teams/incompetence)
+- [Tricky Tanuki Studios, the devs making games](https://github.com/orgs/devOS-Sanity-Edition/teams/tricky-tanuki-studios)
 - [Nautical, a Minecraft modding group under devOS](https://github.com/orgs/devOS-Sanity-Edition/teams/team-nautical)
 - [Team G4, the devs behind G4/G4X/G4Y](https://github.com/orgs/devOS-Sanity-Edition/teams/team-g4)
